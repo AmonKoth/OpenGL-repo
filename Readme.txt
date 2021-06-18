@@ -1,0 +1,1 @@
+External libraries that used in this app are GLEW, GLFW and GLM they have to be downloaded from their respective sites and needed to be linked.
